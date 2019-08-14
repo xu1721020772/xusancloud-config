@@ -7,10 +7,10 @@
 spring:
   profiles: dev   #开发环境
   application:
-    name: greecloud-config-bdqn-dev
+    name: xusancloud-config-dev
 ---
 spring:
   profiles: test  #测试环境
   application:  
-    name: greecloud-config-bdqn-test
+    name: xusancloud-config-test
 #   请保存为UTF-8格式
